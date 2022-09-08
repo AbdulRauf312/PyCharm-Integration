@@ -1,3 +1,6 @@
 Open Repository
 create New File i.e., .txt, .py, etc files
 Commit new file at the bottom of the file
+Go to PyCharm (Local Platform you are working with)
+For PyCharm Find "Update Project Button" on upper right corner.
+Update it.
